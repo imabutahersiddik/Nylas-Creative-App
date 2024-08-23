@@ -16,7 +16,6 @@ This application integrates with the Nylas API for email management and uses Ope
 
 ### Usage Examples
 
-```markdown
 ## Usage
 
 ### 1. Viewing Emails
@@ -55,7 +54,6 @@ This application integrates with the Nylas API for email management and uses Ope
 
 ### Nylas API Usage
 
-```markdown
 ## API Usage
 
 ### 1. Sending an Email
